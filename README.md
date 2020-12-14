@@ -69,7 +69,7 @@ LED Wiring:
 ## Authors
 
 * **Dominic Humber** - *Initial work* - [gerauschlos](https://github.com/gerauschlos)
-* **Daniel Grishanov** - *Initial work* - [root32-01](https://github.com/root32-01)
+* **Daniel Grishanov** - *Initial work* - [TheDannyG](https://github.com/thedannyg)
 
 
 
